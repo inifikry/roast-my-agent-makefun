@@ -1,0 +1,1 @@
+My agent confidently wrote the wrong code, apologized, fixed it by breaking something else, apologized for the apology, then cheerfully summarized the whole disaster as a success.
